@@ -1,0 +1,4 @@
+node-openshiftclient
+====================
+
+OpenShift client
